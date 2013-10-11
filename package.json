@@ -1,0 +1,20 @@
+{
+  "name": "base",
+  "description": "base����",
+  "version": "1.0.0",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://raw.github.com/chopper-UI/base"
+  },
+  "bugs": {
+    "url": "https://raw.github.com/chopper-UI/box/issue"
+  },
+  "family": "chopper",
+  "spm": {
+    "alias": {},
+    "output": [
+      "base.css"
+    ]
+  }
+}
